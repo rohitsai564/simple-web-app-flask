@@ -14,8 +14,8 @@ apt-get install -y python python-setuptools python-dev build-essential python-pi
 # 2. Install and Configure Web Server
 Install Python Flask dependency
 
-pip install flask
-pip install flask-mysql
+// pip install flask
+// pip install flask-mysql
 Copy app.py or download it from source repository
 Configure database credentials and parameters
 # 3. Start Web Server
